@@ -1,5 +1,6 @@
 # Arduino_Projekt
 ### Pametna svetilka
+- [Povezava do Tinkercad vezja](https://www.tinkercad.com/things/7GvflZMkiwC-vin-projekt)
 
 ## Osnovne informacije
 
@@ -16,8 +17,6 @@
   - „Party MODE“ način delovanja:
     - Z uporabo brenčača in LED diod različnih barv
 
-  - [Povezava do Tinkercad vezja](https://www.tinkercad.com/things/7GvflZMkiwC-vin-projekt)
-
 
 ## Način delovanja
 
@@ -30,12 +29,12 @@
 
 ![image](Slika1.png?raw=true "Slika1")
 
+
 ## Serijski prenos
 
   - Druga ploščica posluša serijsko povezavo
   - Če so dostopni podatki (pošlje se izbrani način delovanja), jih prebere in izpiše ustrezno sporočilo na LCD prikazovalniku
 
-
-
+![image](VIN%20Projekt.png?raw=true "Vezje")
 
 
